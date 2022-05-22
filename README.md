@@ -14,7 +14,7 @@ git clone https://github.com/rabifa/dotfiles.git
 ```
 
 ---
-## Condigurando o .gitconfig
+## Configurando o .gitconfig
 
 Volte para a pasta do usuário, abra o **CMD como Administrador** e execute:
 
