@@ -1,6 +1,6 @@
 # Configuração Dotfiles - Windows
 
-Na pasta do usuário crie a pasta **dotfiles**, entre nela e execute:
+Entre na pasta do usuário e execute:
 
 
 Usando SSH
