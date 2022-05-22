@@ -13,7 +13,7 @@ Usando HTTPS
 git clone https://github.com/rabifa/dotfiles.git
 ```
 
-Ou crie a pasta **dotfiles** ente nela e execute os seguintes comendos para manter o versionamento dos arquivos:
+Ou crie a pasta **dotfiles** ente nela e execute os seguintes comendos para manter o verssionamento dos arquivos:
 
 ```
 git init -b main
