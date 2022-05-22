@@ -1,6 +1,6 @@
 # Configuração Dotfiles - Windows
 
-Entre na pasta do usuário e execute:
+Entre na pasta do usuário e execute para clonar repositório:
 
 
 Usando SSH
@@ -13,6 +13,21 @@ Usando HTTPS
 git clone https://github.com/rabifa/dotfiles.git
 ```
 
+Ou crie a pasta **dotfiles** ente nela e execute os seguintes comendos para manter o versionamento dos arquivos:
+
+```
+git init -b main
+```
+E depois execute:
+Usando SSH
+```
+git pull git@github.com:rabifa/dotfiles.git 
+```
+
+Usando HTTPS
+```
+git pull https://github.com/rabifa/dotfiles.git
+```
 ---
 ## Configurando o .gitconfig
 
