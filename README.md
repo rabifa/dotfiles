@@ -1,4 +1,4 @@
-# Configuração Dotfiles - Windows
+# Configuração Dotfiles
 
 >[!IMPORTANT]
 >Precisa ter o git instalado!
@@ -8,8 +8,9 @@ Entre na pasta do usuário e execute para clonar repositório:
 ```sh
 git clone git@github.com:rabifa/dotfiles.git 
 ```
-
 ## Configurando o .gitconfig
+
+### Windows 
 
 Delete o *.gitconfig* existente.
 
