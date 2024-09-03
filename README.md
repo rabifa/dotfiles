@@ -10,7 +10,7 @@ git clone git@github.com:rabifa/dotfiles.git ~/.dotfiles
 ```
 ## Configurando o .gitconfig
 
-De preferencia use o terminal do Git para essas ação ou um ambiente Linux.
+De preferência use o terminal do Git para essas ação ou um ambiente Linux.
 
 Caso haja, delete o *.gitconfig* existente.
 
